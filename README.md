@@ -21,9 +21,3 @@ Create a copy of `sample.env` with the name `production.env` within the `app` di
 ![Screenshot from 2019-10-04 10-45-13](https://user-images.githubusercontent.com/43213197/66182849-3594c000-e694-11e9-8c76-c2f09a380d60.png)
 ![Screenshot from 2019-10-04 10-46-09](https://user-images.githubusercontent.com/43213197/66182855-37f71a00-e694-11e9-899b-aec9093af23b.png)
 
-## Contributors
-
-* Siddhanth Tripathi
-* Sinchana Shetty
-* Somil Jain
-* Vanshika Shetty
